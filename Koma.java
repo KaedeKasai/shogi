@@ -1,7 +1,8 @@
 package shogi;
 
 public class Koma {
-	
+
+//	ちんぽ
 
 	public final int LENGTH = 0;
 	public final int WIDTH  = 1;

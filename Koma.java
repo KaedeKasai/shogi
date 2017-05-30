@@ -4,9 +4,7 @@ public class Koma {
 	
 	private final int LENGTH = 0;
 	private final int WIDTH  = 1;
-	
-	
-	
+
 	private String  name;
 	private boolean  thisIsMyKoma;
 	private int[] presentLocation = new int[2];
